@@ -6,7 +6,7 @@
     max-width: 70rem;
 }
 
-.mainComponent-header, .filter-wrapper .not-found{
+.mainComponent-header,.filter-wrapper,  .not-found{
 width: 70rem;
 }
 
