@@ -1,0 +1,246 @@
+[
+    {
+        "id":1,
+        "img": "./assets/bookings/A1.jpeg",
+        "label":true,
+        "price":2200,
+        "name":"Stylish Apartment",
+        "address":"2nd road Straight",
+        "bedsNo":4,
+        "bathroomNo":3,
+        "area": 80,
+        "location": "Goa",
+        "propertyType": "Apartment",
+        "availableDate":"Sun Oct 09 2022"
+
+    },
+
+
+    {
+        "id":2,
+        "img": "./assets/bookings/R1.jpeg",
+        "label":false,
+        "price":3570,
+        "name":"GoTo Resort",
+        "address":"Airport Road Straight",
+        "bedsNo":2,
+        "bathroomNo":3,
+        "area": 90,
+        "location": "Mumbai",
+        "propertyType": "Resort",
+        "availableDate": 1664502200
+
+    },
+
+
+    {
+        "id":3,
+        "img": "./assets/bookings/H1.jpeg",
+        "label":true,
+        "price":1475,
+        "name":"Modern House",
+        "address":"Temple road 2nd turn",
+        "bedsNo":2,
+        "bathroomNo":1,
+        "area": 40,
+        "location": "Calcutta",
+        "propertyType": "House",
+        "availableDate": 1664502200
+
+    },
+
+
+    {
+        "id":4,
+        "img": "./assets/bookings/H2.jpeg",
+        "label":true,
+        "price":1975,
+        "name":"Rajastala",
+        "address":"Mysuru betta road",
+        "bedsNo":5,
+        "bathroomNo":3,
+        "area": 30,
+        "location": "Mysore",
+        "propertyType": "House",
+        "availableDate": 1664502200
+
+    },
+
+
+    {
+        "id":5,
+        "img": "./assets/bookings/R2.jpeg",
+        "label":true,
+        "price":2575,
+        "name":"Chill Resort",
+        "address":"Goa Bagga Beach",
+        "bedsNo":3,
+        "bathroomNo":2,
+        "area": 100,
+        "location": "Goa",
+        "propertyType": "Resort",
+        "availableDate": 1664502200
+
+    },
+
+
+    {
+        "id":6,
+        "img": "./assets/bookings/A2.jpeg",
+        "label":true,
+        "price":2700,
+        "name":"New Style",
+        "address":"bank cross 2nd building",
+        "bedsNo":4,
+        "bathroomNo":3,
+        "area": 35,
+        "location": "Bangalore",
+        "propertyType": "Apartment",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":7,
+        "img": "./assets/bookings/R3.jpeg",
+        "label":true,
+        "price":3100,
+        "name":"Cool Resort",
+        "address":"calcutta bridge 2nd turn",
+        "bedsNo":4,
+        "bathroomNo":3,
+        "area": 39,
+        "location": "Calcutta",
+        "propertyType": "Resort",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":8,
+        "img": "./assets/bookings/A3.jpeg",
+        "label":false,
+        "price":2225,
+        "name":"Damn Place",
+        "address":"Post office road",
+        "bedsNo":1,
+        "bathroomNo":1,
+        "area": 25,
+        "location": "Mumbai",
+        "propertyType": "Apartment",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":9,
+        "img": "./assets/bookings/H3.jpeg",
+        "label":false,
+        "price":1900,
+        "name":"Meden",
+        "address":"2nd cross car wash",
+        "bedsNo":3,
+        "bathroomNo":3,
+        "area": 100,
+        "location": "Delhi",
+        "propertyType": "House",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":10,
+        "img": "./assets/bookings/H4.jpeg",
+        "label":true,
+        "price":3200,
+        "name":"Cool Breeze",
+        "address":"2nd turn straight",
+        "bedsNo":4,
+        "bathroomNo":3,
+        "area": 56,
+        "location": "Delhi",
+        "propertyType": "House",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":11,
+        "img": "./assets/bookings/A4.jpeg",
+        "label":true,
+        "price":2370,
+        "name":"Scota Height",
+        "address":"Temple road 3rd turn",
+        "bedsNo":2,
+        "bathroomNo":32,
+        "area": 40,
+        "location": "Bangalore",
+        "propertyType": "Apartment",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":12,
+        "img": "./assets/bookings/R4.jpeg",
+        "label":true,
+        "price":4500,
+        "name":"Beachy Resort",
+        "address":"Besides Butterfly beach",
+        "bedsNo":3,
+        "bathroomNo":1,
+        "area": 64,
+        "location": "Goa",
+        "propertyType": "Resort",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":13,
+        "img": "./assets/bookings/R5.jpeg",
+        "label":true,
+        "price":7000,
+        "name":"Freshy Stau",
+        "address":"Dusk road 2nd turn",
+        "bedsNo":2,
+        "bathroomNo":2,
+        "area": 100,
+        "location": "Mumbai",
+        "propertyType": "Resort",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":14,
+        "img": "./assets/bookings/A5.jpeg",
+        "label":false,
+        "price":3200,
+        "name":"Class Stay",
+        "address":"Agrar Building 4th floor",
+        "bedsNo":3,
+        "bathroomNo":3,
+        "area": 81,
+        "location": "Mumbai",
+        "propertyType": "Apartment",
+        "availableDate": 1664502200
+
+    },
+
+    {
+        "id":15,
+        "img": "./assets/bookings/H5.jpeg",
+        "label":false,
+        "price":3975,
+        "name":"Safe Stau",
+        "address":"Hill road 3rd turn",
+        "bedsNo":4,
+        "bathroomNo":4,
+        "area": 50,
+        "location": "Calcutta",
+        "propertyType": "House",
+        "availableDate": 1664502200
+
+    }
+]

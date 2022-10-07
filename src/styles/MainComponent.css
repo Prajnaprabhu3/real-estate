@@ -1,0 +1,58 @@
+@import "primereact/resources/primereact.min.css";
+@import "primereact/resources/themes/lara-light-indigo/theme.css"; 
+@import "primeicons/primeicons.css";     
+
+.mainComponent-wrapper{
+    max-width: 70rem;
+}
+
+.mainComponent-header, .filter-wrapper .not-found{
+width: 70rem;
+}
+
+.not-found{
+    width: 65rem;
+   color: var(--color-violet);
+}
+
+.cardClass{
+    /* width: 69rem; */
+    /* padding: 2rem; */
+}
+
+
+.horizontal-line{
+    width: 17rem;
+    height: 1rem;
+    border-top: 2px solid gray;
+    opacity: 0.15;
+}
+
+.price{
+    color: var(--color-violet);
+}
+
+.month{
+    color: rgb(94, 94, 94);
+}
+
+
+.icons{
+color: var(--color-violet);
+}
+
+
+.label{
+    width: 6rem;
+    font-size: 0.8rem;
+    position: relative;
+    top: -0.8rem;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: var(--color-violet);
+    margin-bottom:-1.7rem;
+}
+
+.images{
+    position: relative;
+}

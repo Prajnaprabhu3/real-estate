@@ -1,0 +1,43 @@
+
+[
+   {
+      "_id": 1,
+      "img":"../src/assets/H1.jpeg",
+      "badge":"fnf",
+      "price":1000,
+      "favorite":"yes",
+      "title":"House",
+      "address":"Next door",
+      "bedsNo":3,
+      "bathroomNo":2,
+      "area":200
+    },
+
+    {
+      "_id": 2,
+      "img":"",
+      "badge":"fnf",
+      "price":"",
+      "favorite":"",
+      "title":"",
+      "address":"",
+      "bedsNo":"",
+      "bathroomNo":"",
+      "area":""
+    },
+
+    {
+      "_id": 3,
+      "img":"",
+      "badge":"fnf",
+      "price":"",
+      "favorite":"",
+      "title":"",
+      "address":"",
+      "bedsNo":"",
+      "bathroomNo":"",
+      "area":""
+    }
+
+
+]

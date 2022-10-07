@@ -1,0 +1,17 @@
+
+.navLinkWrapper{
+    width: 35rem;
+    justify-content: space-between;
+}
+
+.login{
+    background-color: var(--color-white);
+    border: 1px solid var(--color-violet);
+    color: var(--color-violet);
+}
+
+
+.signup{
+    border: 2px solid var(--color-violet);
+    
+}
